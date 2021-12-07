@@ -12,4 +12,4 @@ function createFareMultiplier(number) {
     return function fare(number) {
         number*4;
     }
-}
+} 
